@@ -2,7 +2,7 @@
     box-sizing: border-box;
     font: inherit;
     color: inherit;
-    background-color: #333;
+    background-color: rgb(0, 0, 0);
 }
 
 body {
